@@ -10,6 +10,8 @@ be under the Apache 2 License, as dictated by that
    Notwithstanding the above, nothing herein shall supersede or modify
    the terms of any separate license agreement you may have executed
    with Licensor regarding such Contributions.
+
+6. Adding test line
 ~~~
 
 Contributors must sign-off each commit by adding a `Signed-off-by: ...`
